@@ -57,7 +57,7 @@ The project analyzes user tweets to extract top interests and provides tweet-bas
 
 <p align="center">
     <img src="https://github.com/EmircanKartal/Python-based-Analysis-of-Twitter-Data--Graph-Analysis-and-Interest-Matching/assets/88210656/ad82f82d-11aa-4053-a641-e70158b720e6" alt="Image 1" width="400" height="500">
-      ************  
+
  <img src="https://github.com/EmircanKartal/Python-based-Analysis-of-Twitter-Data--Graph-Analysis-and-Interest-Matching/assets/88210656/01a70e95-1a40-449d-ae11-d4cd7fe0f072" alt="Image 2" width="400" height="300">
 </p>
 
