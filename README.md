@@ -1,0 +1,2 @@
+# Python-based Analysis of Twitter Data: Graph Analysis and Interest Matching
+ Explore the 'Twitter Data Analysis and User Matching' project, where fake Twitter users are dynamically generated and analyzed. The code organizes user data, represents relationships with graph theory, matches common interests, and visualizes the results. Enhance your skills in data structures, graph theory, and natural language processing while gaining insights into user relationships and interests.
